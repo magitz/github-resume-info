@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# GitHub For your Job Search
 
-You can use the [editor on GitHub](https://github.com/magitz/github-resume-info/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+ > Using GitHub.com to host your résumé and profile for free!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![UFIT 2022 Tech Fair header image](images/TechFair2022.png)
 
-### Markdown
+This site has been created to provide information on hosting your résumé online for free using [GitHub.com](https://github.com/) and GitHub Pages using free résumé templates. Especially if you use GitHub to share code, I also cover setting up your GitHub profile.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What is GitHub?
+[Github.com](https://github.com/) is the leading site for building, delivering, and maintaining code. Using the industry standard [git](https://git-scm.com/) technology, GitHub.com provides an online resource for version control and hosting your portfolios. GitHub also provides GitHub Pages as a way of hosting free websites! 
 
-```markdown
-Syntax highlighted code block
+## GitHub Pages: ✨Free🌟 website hosting!
 
-# Header 1
-## Header 2
-### Header 3
+Any GitHub repositroy can have an associated website. This can either be on the main branch, or a branch dedicated to the web content.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/magitz/github-resume-info/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
