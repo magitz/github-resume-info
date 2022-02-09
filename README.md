@@ -13,6 +13,11 @@ This site has been created to provide information on hosting your résumé onlin
 
 Any GitHub repositroy can have an associated website. This can either be on the main branch, or a branch dedicated to the web content.
 
+## Guides to creating your GitHub Pages site
+
+* Here's [a great step-by-step guide to creating your résumé on GitHub Pages](https://workwithcarolyn.com/blog/digital-cv-guide) by Carolyn Stransky
+
+
 ## Sites with GitHub résumé templates
 
 Site | Framework (see [below](#Frameworks-for-hosting-on-GitHub)) | Sample
@@ -26,9 +31,6 @@ The [Jekyll Themes site has a résumé tag](https://jekyllthemes.dev/tag/resume/
 
 
 
-## Guides to creating your GitHub Pages site
-
-* Here's [a great step-by-step guide to creating your résumé on GitHub Pages](https://workwithcarolyn.com/blog/digital-cv-guide) by Carolyn Stransky
 
 
 ## Frameworks for hosting on GitHub
