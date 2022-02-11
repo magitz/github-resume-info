@@ -15,7 +15,10 @@ Any GitHub repositroy can have an associated website. This can either be on the 
 
 ## Guides to creating your GitHub Pages site
 
-* Here's [a great step-by-step guide to creating your résumé on GitHub Pages](https://workwithcarolyn.com/blog/digital-cv-guide) by Carolyn Stransky
+* [Host your resume on Github pages](https://dev.to/joojodontoh/host-your-resume-on-github-pages-514g) by Joojo Dontoh
+  * Has a good walkthrough and links to some nice Bootstrap-based themes.
+* [Creating a digital CV in Markdown on GitHub](https://workwithcarolyn.com/blog/digital-cv-guide) by Carolyn Stransky
+  * A clear step-by-step buid using the built-in Minimal theme.
 
 
 ## Sites with GitHub résumé templates
